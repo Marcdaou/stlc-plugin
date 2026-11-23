@@ -1,0 +1,9 @@
+{
+  "name": "stlc",
+  "version": "0.1.0",
+  "description": "AI-native STLC: Jira ticket -> intent.md -> Figma design + spec.md -> build with unit tests in a git worktree -> Vercel preview -> GitHub PR, with a human approval gate between every stage. Five specialized stage subagents.",
+  "author": { "name": "Marcdaou" },
+  "repository": "https://github.com/Marcdaou/stlc-plugin",
+  "license": "MIT",
+  "keywords": ["sdlc", "stlc", "jira", "figma", "vercel", "worktree", "workflow"]
+}

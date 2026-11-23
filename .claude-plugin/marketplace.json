@@ -1,0 +1,7 @@
+{
+  "name": "stlc-marketplace",
+  "owner": { "name": "Marcdaou" },
+  "plugins": [
+    { "name": "stlc", "source": "./", "description": "AI-native STLC: Jira -> Figma -> worktree build + unit tests -> Vercel preview -> PR, gated by human approval.", "version": "0.1.0" }
+  ]
+}
